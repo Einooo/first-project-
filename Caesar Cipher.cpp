@@ -1,9 +1,5 @@
-// FCAI – Programming 1 – 2022 - Assignment 2
 // Program Name: Caesar Cipher.cpp
 // Program Description: it takes a text and shift each character number of shifts
-// Last Modification Date: 3/14/2022
-// Author1 and ID and Group: Muhannad Ibrahim Yassin - 20210411 - B
-// Teaching Assistant: xxxxx xxxxx
 // Purpose: ciphering text in caesar cipher method
 
 #include<bits/stdc++.h>
